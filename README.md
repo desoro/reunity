@@ -1,3 +1,3 @@
 # ReUnity
 
-Collection of common C# systems for use in Unity.
+A collection of common C# systems for use in Unity.
